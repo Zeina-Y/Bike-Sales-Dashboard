@@ -23,10 +23,14 @@ You can view the interactive Google Sheets dashboard [here](https://docs.google.
 
 ![Dashboard Overview](https://github.com/Zeina-Y/Bike-Sales-Dashboard/blob/main/dashboard_img.png)
 
+## Raw Data
+Download the raw data used in this project:
+- [Bike Sales Data (xlsx)](https://github.com/Zeina-Y/Bike-Sales-Dashboard/blob/main/Excel%20Project%20Dataset.xlsx)
+
 ## Technologies Used
 - Google Sheets: For data visualization and dashboard creation.
 - Pivot Tables and Charts: Used to summarize and visualize data effectively.
 
 
 ## Contact
-For questions or feedback regarding this project, please contact via LinkedIn (www.linkedin.com/in/zeina-elnemr-54a50a155).
+For questions or feedback regarding this project, please contact me on LinkedIn (www.linkedin.com/in/zeina-elnemr-54a50a155).
