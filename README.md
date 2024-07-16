@@ -14,9 +14,14 @@ This project involves creating a Google Sheets-based dashboard to analyze bike s
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Open the Google Sheets link to access the dashboard (https://docs.google.com/spreadsheets/d/1WAyKCyb4J0HrenT5uSM6bEAWo4CtXJnQ_pmskeP4es0/edit?usp=sharing)
+2. Open the Google Sheets link to access the dashboard 
 3. Use filters and pivot tables to interact with the data and explore different insights.
 4. Modify or customize the dashboard as needed for specific analytical needs.
+
+## Google Sheets Dashboard
+You can view the interactive Google Sheets dashboard [here](https://docs.google.com/spreadsheets/d/1WAyKCyb4J0HrenT5uSM6bEAWo4CtXJnQ_pmskeP4es0/edit?usp=sharing).
+
+![Dashboard Overview](https://github.com/Zeina-Y/Bike-Sales-Dashboard/blob/main/dashboard_img.png)
 
 ## Technologies Used
 - Google Sheets: For data visualization and dashboard creation.
@@ -24,4 +29,4 @@ This project involves creating a Google Sheets-based dashboard to analyze bike s
 
 
 ## Contact
-For questions or feedback regarding this project, please contact via LinkedIn (www.linkedin.com/in/zeina-elnemr-54a50a155)
+For questions or feedback regarding this project, please contact via LinkedIn (www.linkedin.com/in/zeina-elnemr-54a50a155).
