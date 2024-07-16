@@ -1,4 +1,4 @@
-# Bike Sales Dashboard Project
+# Bike Sales Dashboard Project 🚴‍♀️
 
 ## Overview
 The Bike Sales Dashboard Project aims to provide insights into bike sales data, customer behavior, and demographic trends through interactive visualizations and data filtering.
