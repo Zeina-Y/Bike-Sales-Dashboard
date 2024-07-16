@@ -1,2 +1,27 @@
-# Bike-Sales-Dashboard
-A GoogleSheet-based dashboard for analyzing bike sales data, customer behavior, and demographic trends through interactive visualizations and data filtering.
+# Bike Sales Dashboard Project
+
+## Overview
+The Bike Sales Dashboard Project aims to provide insights into bike sales data, customer behavior, and demographic trends through interactive visualizations and data filtering.
+
+## Project Description
+This project involves creating a Google Sheets-based dashboard to analyze bike sales data, focusing on customer demographics, sales patterns, and user behavior. The dashboard allows users to explore key metrics such as average income per purchase, commuting distances, and age demographics, providing a comprehensive view of market trends.
+
+## Key Features
+- **Interactive Visualizations:** Utilizes Google Sheets to create interactive charts and graphs for easy data exploration.
+- **Data Filtering:** Enables users to filter data by marital status, region, and occupation to uncover specific insights.
+- **Demographic Analysis:** Provides detailed demographic breakdowns to understand customer preferences and behaviors.
+- **GitHub Repository:** Includes all scripts and data files used for analysis, ensuring transparency and reproducibility.
+
+## Usage
+1. Clone the repository to your local machine.
+2. Open the Google Sheets file to access the dashboard.
+3. Use filters and pivot tables to interact with the data and explore different insights.
+4. Modify or customize the dashboard as needed for specific analytical needs.
+
+## Technologies Used
+- Google Sheets: For data visualization and dashboard creation.
+- Pivot Tables and Charts: Used to summarize and visualize data effectively.
+
+
+## Contact
+For questions or feedback regarding this project, please contact via LinkedIn (www.linkedin.com/in/zeina-elnemr-54a50a155)
