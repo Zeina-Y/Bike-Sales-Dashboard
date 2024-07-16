@@ -14,7 +14,7 @@ This project involves creating a Google Sheets-based dashboard to analyze bike s
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Open the Google Sheets file to access the dashboard.
+2. Open the Google Sheets link to access the dashboard (https://docs.google.com/spreadsheets/d/1WAyKCyb4J0HrenT5uSM6bEAWo4CtXJnQ_pmskeP4es0/edit?usp=sharing)
 3. Use filters and pivot tables to interact with the data and explore different insights.
 4. Modify or customize the dashboard as needed for specific analytical needs.
 
